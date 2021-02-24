@@ -1,4 +1,6 @@
 
+  %reload_ext watermark
+Python implementation: CPython
 Python version       : 3.8.5
 IPython version      : 7.19.0
 
@@ -14,3 +16,6 @@ Machine     : AMD64
 Processor   : Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
 CPU cores   : 4
 Architecture: 64bit
+
+ 
+Last updated: Wed Feb 24 2021 14:13:52Mitteleuropäische Zeit
