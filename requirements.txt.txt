@@ -1,0 +1,19 @@
+Python implementation: CPython
+Python version       : 3.8.5
+IPython version      : 7.19.0
+
+pandas           : 1.2.0
+numpy            : 1.19.2
+matplotlib.pyplot: unknown
+watermark        : 2.2.0
+
+Compiler    : MSC v.1916 64 bit (AMD64)
+OS          : Windows
+Release     : 10
+Machine     : AMD64
+Processor   : Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+CPU cores   : 4
+Architecture: 64bit
+
+ 
+Last updated: Wed Feb 24 2021 11:57:25Mitteleuropäische Zeit
