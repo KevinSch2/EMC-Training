@@ -1,4 +1,4 @@
 pandas==1.2.0
 numpy==1.19.2
-matplotlib.pyplot
+matplotlib==3.3.2
 watermark==2.2.0
