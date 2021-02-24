@@ -16,4 +16,4 @@ CPU cores   : 4
 Architecture: 64bit
 
  
-Last updated: Wed Feb 24 2021 11:57:25Mitteleurop‰ische Zeit
+Last updated: Wed Feb 24 2021 11:57:25Mitteleurop√§ische Zeit
