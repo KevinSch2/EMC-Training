@@ -1,4 +1,4 @@
-Python implementation: CPython
+
 Python version       : 3.8.5
 IPython version      : 7.19.0
 
